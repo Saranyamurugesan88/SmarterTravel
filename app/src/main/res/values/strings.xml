@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Smarter Travel</string>
+    <string name="taj_mahal">Taj Mahal</string>
+    <string name="agra">Agra</string>
+    <string name="golden_temple">A Golden Temple</string>
+    <string name="amritsar">Amritsar</string>
+    <string name="punjab">Punjab</string>
+    <string name="three_days">3 Days Tour</string>
+    <string name="famous_attractions">6+ Famous Attractions</string>
+    <string name="attractions">Main Attractions</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="hotels">Hotels</string>
+    <string name="location_in_maps">See Location in Google Maps</string>
+    <string name="all_trips">All Trips</string>
+    <string name="plan_a_trip">Plan A Trip!</string>
+    <string name="searching_for_place">Search for any place...</string>
+    <string name="famous_places">Most Famous Places</string>
+    <string name="explore">Explore</string>
+    <string name="visit_places">Must visit places</string>
+    <string name="udaipur">Udaipur</string>
+    <string name="new_delhi">New Delhi</string>
+    <string name="varanasi">Varanasi</string>
+    <string name="kolkata">Kolkata</string>
+
+</resources>
